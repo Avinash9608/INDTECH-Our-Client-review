@@ -1,0 +1,143 @@
+/* scroll bar */
+.vScrollbarTrack {
+	position: absolute;
+	top: 0;
+	right: 0;
+	background-color: #e3d4f7;
+	transition: opacity 0s;
+}
+.vScrollbarRail {
+	height: inherit;
+	width: inherit;
+	overflow: hidden;
+	position: relative;
+	border-radius: inherit;
+}
+.arrow {
+	background-repeat: no-repeat;
+	display: flex;
+	position: absolute;
+	z-index: 9999;
+}
+.upArrow {
+	width: inherit;
+}
+.downArrow {
+	width: inherit;
+}
+.leftArrow {
+	width: 15px;
+	height: inherit;
+}
+.rightArrow {
+	width: 15px;
+	height: inherit;
+}
+.upArrow:hover, .downArrow:hover, .leftArrow:hover, .rightArrow:hover {
+	opacity: 1;
+}
+
+
+.noVertical .cnt {
+	width: 100%;
+	height: 300px;
+	background-color: #fcfcfc;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	padding: 15px;
+	border-radius: 5px;	
+	border: 1px solid #cccccc;
+}
+.cnt p:first-child {
+	padding-top: 0;
+	margin-top: 0;
+}
+.withArrow {
+	height: 300px;
+}
+.horizontal-container {
+	height: 300px;
+}
+.horizontal-container p{
+	width: 150%;
+}
+.noVertical {
+	height: 70px;
+}
+.noVertical p{
+	width: 150%;
+}
+
+.vScrollbarHandle {
+	background: #c5a8eb;
+	position: absolute;
+} 
+.vScrollbarHandle:hover  {
+	background: #e3d4f7;
+} 
+.hScroll {	
+	overflow-x: scroll !important;
+}
+
+.noNativeScrollBar {
+	-ms-overflow-style: none !important;
+	scrollbar-width: none !important;
+	overflow: -moz-scrollbars-none;
+	width: 100%;
+	display: inherit;
+	/* overflow-y: hidden !important; */
+}
+.noNativeScrollBar::-webkit-scrollbar { 
+    display: none !important;  /* Safari and Chrome */
+	width: 0;
+    height: 0;
+    background: transparent;  /* Optional: just make scrollbar invisible */
+    -webkit-overflow-scrolling: touch;
+	-webkit-appearance: none;
+}
+.noNativeScrollBar::-webkit-scrollbar-thumb {
+	display: none !important; 
+    background: transparent;
+	width: 0;
+    height: 0;
+	-webkit-appearance: none;
+}
+.noNativeScrollBar::-webkit-scrollbar-track {
+    border-radius: 0;
+    background-color: transparent;
+	display: none;
+}
+.noNativeScrollBar::-webkit-scrollbar {
+    width: 0;
+	height: 0;
+    background-color: transparent;
+    border-radius: 0;
+}
+.noNativeScrollBar::-webkit-scrollbar-thumb {
+	width: 0;
+	height: 0;
+    background-color: transparent;
+    border-radius: 0;
+}
+
+.toolbar-menu{ 
+	padding-top: 1rem !important;
+}
+/* horizontal scrollbar */
+.hScrollbarTrack {
+	position: absolute;
+	left: 0;
+	background-color: #e3d4f7;
+	transition: opacity 0.2s;
+}
+.hScrollbarRail {
+	height: inherit;
+	width: inherit;
+	overflow: hidden;
+}
+.hScrollbarHandle {
+	background: #b87e5c;
+	position: absolute;
+} 
+.hScrollbarHandle:hover  {
+	background: #815b45;
+} 

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63" height="63" viewBox="0 0 63 63">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 69 69">
+      <image width="69" height="69" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAABFBAMAAADuozYaAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAtUExURUdwTAm+UwC/Pwa9TQm/Ugm/Uge9TgC7TAi/UQe+UQe/UQe/UQa+UAi/UQq/UyxsyAcAAAAOdFJOUwD9BDjG7kAXo4FxtEvRiseddQAAARNJREFUSMft1rFqQjEUxvEQBxcHMwhOQdpBcZLKFdxswcFFFDctoVOpTo7Cne7kWl9AaB+jY9duPsClGQRBOM/QXqTS3pr7nSHg4j/Tgd+S5SQiUO5KvRuRFJAzq9TkHZhEjaEhUktsbLkCDalXbOieYfZzbLYP2NhnbKjDMAOGKXoyn97MdTPd7DZtKuJfi7Q5UU5jI2OG6Z/bVFuPhxouI9vdn9veOYx8Gh5nl6kbhUw++jU7TE1DI18ImoLBJiRsAoZZMUzMMIZhNMPQxXg2G4YZMcxujo19SzZZnGnIfh9N2ebkzuQY7ckYhukzzNrTexEyTMFgI1fY/N1jDlONsJF1A424+hhCI/LTbsanTBW/AGX0/xsbL+TeAAAAAElFTkSuQmCC"/>
+    </pattern>
+  </defs>
+  <rect id="Adyen" width="63" height="63" fill="url(#pattern)"/>
+</svg>

@@ -1,0 +1,36 @@
+/* Dropdown container */
+.menu_dropdown {
+  display: block; /* Always render the dropdown in the DOM */
+  position: absolute;
+  background: white;
+  width: 100%;
+  z-index: 1000;
+  opacity: 0; /* Start hidden */
+  visibility: hidden; /* Start hidden */
+  transform: translateY(-20px); /* Start slightly above */
+  transition: opacity 0.3s ease, visibility 0.3s ease, transform 0.3s ease;
+}
+
+/* Show dropdown on hover */
+.drop:hover .menu_dropdown {
+  opacity: 1; /* Fully visible */
+  visibility: visible; /* Fully visible */
+  transform: translateY(0); /* Move to its original position */
+}
+
+/* Arrow rotation */
+.dropdown-arrow {
+  width: 12px;
+  height: 8px;
+  margin-left: 10px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.drop:hover .dropdown-arrow {
+  transform: rotate(180deg);
+}
+
+/* Mobile menu */
+.menu_container.active {
+  display: block; /* or any other style to show the mobile menu */
+}

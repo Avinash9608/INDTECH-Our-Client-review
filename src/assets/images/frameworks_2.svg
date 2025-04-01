@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63" height="63" viewBox="0 0 63 63">
+  <defs>
+    <pattern id="pattern" width="1" height="1" viewBox="-7.603 0 78.207 78.207">
+      <image preserveAspectRatio="xMidYMid slice" width="63" height="78.207" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADoAAABICAMAAACQjxbQAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAACfUExURUdwTEbG/EbI/ULJ/UfH/ABWnzzI/ULH/BKk6UbG/EbI/T/G/UbG/EbH/ABVoEbI/QW1+EbJ/EbI+wK1+ABUnUbJ/QC2+QC09wBWoQBWnwBWoABWoQC4+gC0+EbL/wC4+QCj5AC4+QBWnxm9+x27+Uf/5GZ8/wC18kfF+wBWngC1+ACv8gBTmhq6+ULD+gBEewBNjgCO0gCDvwBxr0dwTCiRu1AAAAA1dFJOUwC0pRLu9B4oAvicMfPmKZQtgYm2E3nq9Zh0qJ2L+WeagZF9r/6kpP////////////////8AgVVUBAAAAeJJREFUWMO91ttygjAQgOFAgCQYGrXVHmytPVwUsB7f/92KVCWShexsx2a8/eZfGJLImHfxSRYBK0DIkf5ylwoSRLNDSqoUkjatDqlN/YfmwCuTsQJkFAqEjMhNDTYR0kDNKB0Qp8U0xTgjNoUhS7gZXrXZIcVVmxG1mYJfnxHkb0gQp9Wpf2cnKbg/U+6DMjFEWTWhna1Cf1MYBe5szLT/3xTgc2pDbqbUZmSoMvNLBk8bmdMtKLkA12GvgM3x6buVYhxAa85E6JPgh63CATP9ksFSB9WhAR3VXqnqw5GPHJuNGhmqniuLt7t2M1SdzXqzTaKuZqD6r0nJbWvJASztY1UmzfNacvgBvqHLA1meZ7bl7f3nquc5WzM3UlayKL5XfdPa3ctmUThWQZfdoZuNeEu2rIIvHsnn8/MuO8sLq7ouASklIC2rev4wNdO+FIVjK+k7M2RLHq32SubK2mpKs7aIJuOLqSuL8nbovSard/Tq2nIbz24QVji23O7z+AFjh2/TlsyXeU7p/soc2RVWt9wua4ntJs8nW+42myPFdo+2kuuG4uxvt9ytG4nuHmy5r6RN8fYgl7ZE20W8uXR4e/ce5+6KnxBWdtgZyj6Su+wKdnbD6N07ss2xNs6dX/z0A7oPBB4kOGToAAAAAElFTkSuQmCC"/>
+    </pattern>
+  </defs>
+  <rect id="flutter-logo" width="63" height="63" fill="url(#pattern)"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="52" viewBox="0 0 60 52">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 74 64">
+      <image width="63" height="63" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEoAAABACAMAAACKlRElAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABRUExURUdwTK8YL68ZMbAaMbAaMq4XLq8aMbEbM6kLI60VK7AbMq8ZMLAaMbAcM////7UrQLw+UtF9iuGpsvv19vfp68pod8JSZNiPm+nAxvPe4e7Q1c5zWtQAAAANdFJOUwBHdY3oL733CRrVXacj4Tn8AAACt0lEQVRYw62X25KDIBBE18QLGgkCIsj/f+iCQBBBE8Xeh608pGtsTw/k7++r2kdZ9tXfHXqVEDbP9ganqodK3SvfCTxKbQX7/LGKenGC5QNkOrXPxljBOjf5orNOsMkcq33Cj+oiK/NX6a1gFhAGBKfuBTJAaNZWMIN5B4LTdSDWmecBATwIHohrybc9jNQV+SBkAVHVCSdYXgCi3YCQAUSc+VUgYhCuVjGduQHiZPJVD3fVFeDUUM2+1SkggAEBDUqT1YDQFSDMFp44IUJIOWtJQfCETlfRlA/hd6hR4OFsFU35IitlxodzQFgQElbvEaNTQNjyKStKx3FJaqTWS05nkndbGE2EcI4xZoxhLowZxa6Kv4xVufIh9f7dO1O+xouj38fyx3EgNInFigw/AwGKnfIhHlp9B6LdLR+mgdXXKh5shK3Vtyqmt3Da6jj57XGs0lYkGImtFazbo40QbuEBEyHn0eq9tWoOxgq3MGJkptvqrK0OgAhBQEzSuIWB1X4V2yBzJj/fp8tfbLULRJj5QMx3Z6GaqBXHvl/FMHO2xEwF06tYi6es0kCAoHy2J5KhXa72kw/LZ56PEgSPrVL3ZhCWbxBmAydo90fPknyV/FF0aPXJivFpbfYEhyA4q9UD+n3FpCRsVcUNEFH5LAuSOV7tRhYYk/FN589BFgFRdelNRyWe1AntK6QODmr++yUYAAHiKxCz58IolZQRpTR5jm2TT2xhE5aXJOP64+ydAiBAYuEhNq++qajHzko/4gpdnbwfK3kFQth7jWRCyko9reCY4Tl0gk3vxmrT10519kmdMZ2Xdz9xrvqo70aMhE4aCGu1cxdWWA96HetCL58c5mhA0QXVAFGVBzc8BH+STb6HN6jTYxXNHVa6iqC+xUkD8YA3qb4nqWWsv+ddVp1aVM0t6op/pPaMFWbrIOcAAAAASUVORK5CYII="/>
+    </pattern>
+  </defs>
+  <rect id="Appcelerator_logo" width="60" height="52" fill="url(#pattern)"/>
+</svg>

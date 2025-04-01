@@ -1,0 +1,117 @@
+.slick-slide img {
+  border-radius: 24px;
+  height: auto;
+  width: 50% !important;
+  position: relative;
+  z-index: 3;
+  transition: opacity 0.3sease, transform 0.3sease;
+}
+.swiper-pagination-bullet i {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+  width: 25rem;
+  height: 4px;
+  /* background-color: #707070; */
+  border-radius: 9px;
+}
+.ourwork-slider {
+  display: flex;
+  justify-content: center; /* Center images */
+  align-items: center;
+  overflow: hidden; /* Prevents stretching */
+}
+
+.image-container {
+  display: flex;
+  gap: 20px; /* Space between images */
+  justify-content: center;
+}
+
+.image-container img {
+  width: 30%; /* Each image takes 30% of the width */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 10px; /* Optional: Rounds corners */
+  object-fit: cover; /* Prevents distortion */
+}
+
+/* Give some more weight of h2 p text of Services.jsx */
+.text-white,
+.accordion {
+  font-weight: 700 !important;
+}
+
+/* Remove Underline from Know More Buttom of Services.jsx */
+.themeBtn {
+  text-decoration: none;
+}
+
+/* Remove underline from Title of Sliding of Industries.jsx */
+.slide-content a {
+  text-decoration: none; /* Removes underline */
+  color: inherit; /* Keeps the default text color */
+}
+
+.image-container img {
+  border-radius: 16px;
+}
+.image-container {
+  display: flex;
+  gap: 30px; /* Space between images */
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.image-wrapper {
+  overflow: hidden; /* Prevents the image from overflowing */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-wrapper .inner-img {
+  width: 100%; /* Image fits inside the container */
+  height: 100%;
+  object-fit: cover; /* Keeps aspect ratio */
+  transition: transform 0.3s ease-in-out;
+}
+
+.image-wrapper .inner-img:hover {
+  transform: scale(1.1); /* Enlarges image inside the fixed container */
+}
+
+.img-hover {
+  overflow: hidden; /* Ensures image stays inside container */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto; /* Center the images */
+}
+
+.img-hover .inner-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensures the image fits well */
+  transition: transform 0.3s ease-in-out;
+}
+
+.img-hover .inner-img:hover {
+  transform: scale(1.1); /* Enlarge image on hover */
+}
+
+.ourwork-slider {
+  display: flex;
+  justify-content: center; /* Centers images horizontally */
+  gap: 25px; /* Adds space between images */
+}
+
+.Insights-text a {
+  text-decoration: none !important;
+  color: inherit;
+}
+
+.Insights-text a:hover {
+  text-decoration: none;
+}
