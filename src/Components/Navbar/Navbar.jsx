@@ -72,7 +72,7 @@ const Navbar = () => {
                             </a>
                           </li>
                           <li>
-                            <a href="https://contact-us-roan-one.vercel.app/">
+                            <a href="https://our-team-rho.vercel.app/">
                               Our Team
                             </a>
                           </li>
@@ -115,13 +115,17 @@ const Navbar = () => {
                       <div className="col-md-3">
                         <ul className="sub-menu">
                           <li>
-                            <a href="https://client-review-five.vercel.app/">Client Reviews</a>
+                            <a href="https://client-review-five.vercel.app/">
+                              Client Reviews
+                            </a>
                           </li>
                           <li>
-                            <a href="/our-client-reviews">Our Client Reviews</a>
+                            <a href="https://indtech-our-client-review.vercel.app/">
+                              Our Client Reviews
+                            </a>
                           </li>
                           <li>
-                            <a href="/blog">Blog</a>
+                            <a href="https://indtech-blog.vercel.app/">Blog</a>
                           </li>
                         </ul>
                       </div>
@@ -173,15 +177,17 @@ const Navbar = () => {
                       <div className="col-md-4 bdr">
                         <ul className="sub-menu">
                           <li>
-                            <a href="/web-development">Web Development</a>
+                            <a href="https://ind-tech-mar-web-dev-page.vercel.app/">
+                              Web Development
+                            </a>
                           </li>
                           <li>
-                            <a href="/mobile-app-development">
+                            <a href="https://indtech-mark-mob-dev-page.vercel.app/">
                               Mobile App Development
                             </a>
                           </li>
                           <li>
-                            <a href="/digital-marketing-services">
+                            <a href="https://indtech-digital-marketing-service.vercel.app/">
                               Digital Marketing
                             </a>
                           </li>
@@ -193,16 +199,24 @@ const Navbar = () => {
                       <div className="col-md-4">
                         <ul className="sub-menu">
                           <li>
-                            <a href="/website-design-company">Web Designing</a>
+                            <a href="https://indtech-wesite-design-company.vercel.app/">
+                              Web Designing
+                            </a>
                           </li>
                           <li>
-                            <a href="/portfolio">Work</a>
+                            <a href="https://indtech-portfolio-page.vercel.app/">
+                              Work
+                            </a>
                           </li>
                           <li>
-                            <a href="/checkout">Checkout</a>
+                            <a href="https://indtech-check-out-page.vercel.app/">
+                              Checkout
+                            </a>
                           </li>
                           <li>
-                            <a href="/pricing">Pricing</a>
+                            <a href="https://indtech-pricing-page.vercel.app/">
+                              Pricing
+                            </a>
                           </li>
                         </ul>
                       </div>
@@ -254,23 +268,33 @@ const Navbar = () => {
                       <div className="col-md-4 bdr">
                         <ul className="sub-menu">
                           <li>
-                            <a href="/social-media">Social Media</a>
+                            <a href="https://indtech-services-social-media-page.vercel.app/">
+                              Social Media
+                            </a>
                           </li>
                           <li>
-                            <a href="/finance">Finance</a>
+                            <a href="https://indtech-finance-page.vercel.app/">
+                              Finance
+                            </a>
                           </li>
                           <li>
-                            <a href="/education">Education</a>
+                            <a href="https://indtech-education.vercel.app/">
+                              Education
+                            </a>
                           </li>
                         </ul>
                       </div>
                       <div className="col-md-4">
                         <ul className="sub-menu">
                           <li>
-                            <a href="/healthcare">Healthcare</a>
+                            <a href="https://indtech-health-care.vercel.app/">
+                              Healthcare
+                            </a>
                           </li>
                           <li>
-                            <a href="/sports">Sports</a>
+                            <a href="https://indtech-sports.vercel.app/">
+                              Sports
+                            </a>
                           </li>
                         </ul>
                       </div>
@@ -287,18 +311,18 @@ const Navbar = () => {
               </a>
             </li>
             <li>
-              <a href="/careers" title="Careers">
+              <a href="https://career-flax-six.vercel.app/" title="Careers">
                 Careers
               </a>
             </li>
             <li>
-              <a href="/blog" title="Blog">
+              <a href="https://indtech-blog.vercel.app/" title="Blog">
                 Blog
               </a>
             </li>
             <li>
               <a
-                href="/contact-us"
+                href="https://contact-us-roan-one.vercel.app/"
                 className="btn-darkblack px-4 text-white py-3 fw-bold d-flex"
               >
                 <span>Contact Us</span>
